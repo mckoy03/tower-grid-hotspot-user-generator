@@ -1,0 +1,36 @@
+{
+  "name": "tower-grid-hotspot-user-generator",
+  "version": "1.0.0",
+  "description": "Mikrotik Hotspot User Generator",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.1.1",
+    "mikronode": "^2.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.5.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mckoy03/tower-grid-hotspot-user-generator.git"
+  },
+  "keywords": [
+    "hotspot",
+    "mikrotik",
+    "user",
+    "generator"
+  ],
+  "author": "Mark Cawit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mckoy03/tower-grid-hotspot-user-generator/issues"
+  },
+  "homepage": "https://github.com/mckoy03/tower-grid-hotspot-user-generator#readme"
+}
